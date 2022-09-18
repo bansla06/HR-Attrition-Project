@@ -2,6 +2,10 @@
 
 I have successfully completed my HR analytics project in praxis business school.
 
+This repository contains the following 
+1. Code in R
+2. Project Report
+
 ### Problem Statement
 In the best of world’s, employee would love their   jobs, like their co-workers, work hard for their employers, get paid well for their work , have ample chances for advancement, and flexible schedules so they could attend to personal or family needs when necessary and never leave.
 But then there’s the real world. And in the real world, employees, do leave, either because they want more money, hate the work condition, hate their co-workers, want a change, or because their spouse gets a dream job in another state.<br>
@@ -12,5 +16,4 @@ It is however not an easy task for an HR manager to bridge the ever increasing d
 •	Through our analysis we intend to build a model which can predict if an employee is about to quit.<br>
 •	We shall be looking at all variable through some plots and infer about it in our exploratory analysis. <br>
 •	After our exploration we shall build some features based on the variables at hand and take a call on inclusion and exclusion of few variable. <br>
-
 
